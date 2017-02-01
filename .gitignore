@@ -1,4 +1,4 @@
 styleTransfer/data/imagenet-vgg-verydeep-19.mat
 *project.pdf
-
-
+*.ipynb_checkpoints
+*.pyc

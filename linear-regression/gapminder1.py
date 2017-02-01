@@ -1,10 +1,11 @@
 # TODO: Add import statements
-import pandas as pd
+
+import pandas
 from sklearn.linear_model import LinearRegression
 
 # Assign the dataframe to this variable.
 # TODO: Load the data
-bmi_life_data = pd.read_csv("bmi_and_life_expectancy.csv")
+bmi_life_data = pandas.read_csv('bmi_and_life_expectancy.csv')
 
 # Make and fit the linear regression model
 #TODO: Fit the model and Assign it to bmi_life_model
